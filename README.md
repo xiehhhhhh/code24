@@ -2,7 +2,7 @@
 #include "Delay.h"
 #include "OLED.h"
 #include "Timer.h"
- 
+  
 uint16_t Num;
 
 int main(void)
